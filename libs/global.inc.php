@@ -1,0 +1,12 @@
+<?
+class users {
+	
+	function user()
+	{
+
+	
+	}
+
+
+}
+?>
